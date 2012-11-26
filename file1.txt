@@ -1,2 +1,6 @@
 This is 1st git file.
+<<<<<<< HEAD
 Now changed by 1st user.
+=======
+Now changed!
+>>>>>>> 152a9f181ab3639ea7642ba45cf41df86a12d527
